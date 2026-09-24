@@ -1,0 +1,6 @@
+inputs/
+outputs/
+assets/
+__pycache__/
+*.log
+.DS_Store
