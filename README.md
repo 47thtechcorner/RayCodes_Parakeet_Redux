@@ -1,8 +1,8 @@
 <div align="center">
-  <a href="https://youtu.be/YOUR_VIDEO_ID">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" alt="178MB Local AI Transcriber - Moondream Parakeet Redux Setup">
+  <a href="https://youtu.be/nwx4ph8iELA">
+    <img src="https://img.youtube.com/vi/nwx4ph8iELA/0.jpg" alt="Parakeet Redux: Nvidia's 178MB AI Beats Whisper Running 113× Faster on CPU!">
   </a>
-  <h3>📺 <a href="https://youtu.be/YOUR_VIDEO_ID">Watch the full video on YouTube</a></h3>
+  <h3>📺 <a href="https://youtu.be/nwx4ph8iELA">Watch the full video on YouTube</a></h3>
 </div>
 
 # ⚡ Parakeet Redux Local Transcriber
